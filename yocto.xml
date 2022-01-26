@@ -14,7 +14,6 @@
   <project dest-branch="master" name="meta-browser" remote="browser" revision="a5a5f277740a8434377f9844c62574efb17a4fa0"/>
   <project dest-branch="gatesgarth" name="meta-clang" remote="clang" revision="04a1194c78563524659f27941304e564956792b1"/>
   <project dest-branch="gatesgarth" name="meta-openembedded" remote="oe" revision="f3f7a5f1a4713f145107bb043e0d14cb3a51c62f"/>
-  <project dest-branch="gatesgarth" name="meta-python2" remote="oe" revision="d9662a41f67c3425a356bce4ec29f82058127344"/>
   <project dest-branch="gatesgarth" name="meta-qt5" remote="qt5" revision="2b33a5d5e888370bb56685b86aa82b73624f19f0"/>
   <project dest-branch="gatesgarth" name="meta-rockchip" remote="github" revision="ded5ee2dac6e36904989923f4903999f06a15b1a"/>
   <project dest-branch="master" name="meta-rust" remote="rust" revision="494d879a1d337cda5b3a19406cabe46fcd3aee76"/>
